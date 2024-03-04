@@ -1,0 +1,215 @@
+#one{
+    margin: 0px;
+     padding: 0px;
+     height: 42px;
+    
+     border: solid 0px;
+     width: 1364px;
+ position: relative;
+ display: flex;
+ flex-wrap: nowrap;
+ background-color: rgba(0,116,199,255)
+ 
+ 
+ }
+ 
+ #two{
+    
+     padding: 0px;
+     height: 185px;
+     line-height: 30px;
+     border:  0px;
+     margin: 0px;
+     width: 1364px;
+     position: relative;
+    
+ }
+ 
+ #three{
+     
+     padding: 0px;
+             height: 227px;
+             line-height: 30px;
+             border: solid 0px;
+             width: 1364px;
+             position: relative;
+             display: flex;
+  flex-wrap: nowrap;
+  background-color: rgb(158, 216, 211);
+ }
+ 
+ #four{
+    
+     padding: 0px;
+             height:156px;
+             line-height: 30px;
+             border: solid 0px;
+             width: 1364px;
+             position: relative;
+             display: flex;
+             background-color: rgba(1,149,255,255);
+ }
+ 
+ #five{
+     background-color: rgba(0,116,199,255);
+     
+     padding: 0px;
+     height: 41px;
+     
+     border: solid 0px;
+     width: 1364px;
+     position: relative;
+ }
+ #two img{
+   /*  width: 200px;
+     object-fit:fill;
+     padding: 1px;
+     height: 220px;
+     line-height: 30px;
+     border: solid 1px orange;
+     float: left;*/
+     width: 1364px;
+    
+     margin: 0px;
+     height: 184.3px;
+     position: relative;
+     
+ }
+ body{
+     margin: 0px;
+     padding: 0px;
+ }
+ 
+ #three div{
+    background-color: white;
+    width: 130px;
+    margin: 30px;
+   
+    font-size: 30px;
+    padding: 40px;
+    height: 85px;
+    
+    justify-content: space-between;
+     
+ }
+
+ #one div{
+    background-color: rgba(0,116,199,255);
+    width: 70px;
+    margin: 0px;
+   
+    font-size: large;
+    padding: 0px;
+    height: 42px;
+    margin-left: 30px;
+    
+    
+    
+  
+    border: 0ch;
+    color: white;
+    position: relative;
+
+ }
+ #one div1{
+    background-color: rgba(0,116,199,255);
+    margin: 0px;
+   
+    font-size: large;
+    padding: 0px;
+    height: 42px;
+    margin-left: 300px;
+    
+    
+    
+  
+    border: 0ch;
+    color: white;
+    position: relative;
+ }
+
+ #one h3{
+     margin: 0px;
+     color: white;
+     height: 40px;
+     margin-left: 50px;
+     
+ }
+
+ div.a{
+     font-size: 500px;
+ }
+
+ #four div2{
+    background-color: rgba(1,149,255,255);
+    width: 130px;
+    margin: 0px;
+    color: darkblue;
+   
+   
+    padding: 40px;
+    height: 100px;
+    margin-right: 0%;
+   
+    margin-left: 250px;
+    position: relative;
+    font-size:large;
+    border: 0ch;
+ }
+ #four div1{
+    background-color: rgba(1,149,255,255);
+    width: 290px;
+    margin: 0px;
+    color:white;
+   
+    font-size: 30px;
+    padding: 40px;
+    height: 100px;
+    margin-right: 0%;
+    
+   
+    margin-left: 40px;
+
+ }
+ #four div3{
+    background-color:rgba(1,149,255,255);
+    width: 130px;
+    margin: 0px;
+    color: darkblue;
+   
+    font-size: large;
+    padding: 40px;
+    height: 85px;
+    
+   
+    margin-left: 60px;
+ }
+ #four div1 div{
+     font-size: small;
+     line-height: 90%;
+     color: white;
+     margin-top: 10px;
+    
+ }
+ #four div2 div{
+    font-size: small;
+    line-height: 150%;
+    color: white;
+    margin-bottom: 10px;
+ }
+ #four div3 div{
+    font-size: small;
+    line-height: 150%;
+    color: white;
+    margin-bottom: 10px;
+ }
+#one h3{
+    font-size: xx-large;
+}
+#five div{
+    color: black;
+    margin-left: 20px;
+}
+#three div div1{
+    font-size: small;
+}
